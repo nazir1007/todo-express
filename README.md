@@ -14,7 +14,8 @@ A crud apis in express and mongo
 
 ## To Start
 
-`$ node index.js`
+- `$ node index.js`
+- `$ mongo`
 
 ## Postman Documentation
 
