@@ -4,9 +4,9 @@ A crud apis in express and mongo
 
 ## Version
 
-- node - v16.14.2;
-- mongo - 5.0.6;
-- npm - 8.5.0;
+- node - v16.14.2
+- mongo - 5.0.6
+- npm - 8.5.0
 
 ## cerated_at
 
