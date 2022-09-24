@@ -14,9 +14,29 @@ A crud apis in express and mongo
 
 ## To Start
 
+- `$ npm install`
 - `$ node index.js`
-- `$ mongo`
+- `$ base url = 127.0.0.1:5000`
 
-## Postman Documentation
+## Crud Api's
 
-[https://documenter.getpostman.com/view/18673452/Uz5JFZn7](https://documenter.getpostman.com/view/18673452/Uz5JFZn7 "Postman Documentation")
+- ` GET 127.0.0.1:5000`
+- ` POST 127.0.0.1:5000`
+
+   json
+     {
+      "title": "this is saif",
+       "status": true
+      }
+
+- ` PATCH 127.0.0.1:5000/id`
+
+    json
+   {
+     "status": false
+   }
+   
+ - ` DEL 127.0.0.1:5000/id`
+
+
+
